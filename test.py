@@ -11,3 +11,5 @@ def minus():
     return a - b
 
 print(adding())
+print(multiplaying())
+print(minus())
